@@ -1,0 +1,28 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/index/index",
+		    "style" : {
+				"navigationBarTitleText": "商品双向联动列表"
+			}
+		},
+		{
+		    "path" : "pages/index/goodsList_scroll",
+		    "style" : {
+				"navigationBarTitleText": "滚动式双向联动列表"
+			}
+		}
+		,{
+		    "path" : "pages/index/goodsList_swiper",
+		    "style" : {
+				"navigationBarTitleText": "轮播式双向联动列表"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "UNIAPP 源码分享-河浪",
+		"navigationBarBackgroundColor": "#42b983",
+		"backgroundColor": "#f3f3f3"
+	}
+}
